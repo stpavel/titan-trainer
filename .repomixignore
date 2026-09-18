@@ -1,0 +1,23 @@
+build/
+builds/
+.gradle/
+.idea/
+*.class
+*.jar
+# Ассеты модели Vosk и звуков
+app/src/main/assets/model-ru/
+app/src/main/assets/sounds/
+
+# Шрифты и иконки
+app/src/main/res/font/
+app/src/main/res/drawable/
+app/src/main/res/mipmap*/
+
+# Gradle обёртки
+gradlew
+gradlew.bat
+gradle/wrapper/
+
+# Служебные текстовые инструкции
+**/*.txt
+!README.md

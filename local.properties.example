@@ -1,0 +1,9 @@
+# Скопируй этот файл в local.properties (он в .gitignore, у каждого разработчика свой)
+# и укажи путь к своему Android SDK.
+#
+# Windows-пример:
+# sdk.dir=C:\\Users\\<твоё_имя>\\AppData\\Local\\Android\\Sdk
+#
+# Либо вместо local.properties можно один раз задать переменную окружения
+# ANDROID_HOME или ANDROID_SDK_ROOT — тогда этот файл не обязателен.
+sdk.dir=C:\\Users\\CHANGE_ME\\AppData\\Local\\Android\\Sdk
