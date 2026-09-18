@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/logo.png" alt="Svensson Body Labs Logo" width="360"/>
+  <img src="https://cdn.jsdelivr.net/gh/stpavel/titan-trainer@main/assets/logo.png" alt="Svensson Body Labs Logo" width="360"/>
 </p>
 
 <h1 align="center">Titan Trainer ⚡</h1>
