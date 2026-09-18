@@ -8,14 +8,6 @@
   <b>Автономный бортовой компьютер, честный одометр и смарт-контроллер для эллиптического тренажёра Svensson Body Labs TITAN-650 (Bluetooth FTMS)</b>
 </p>
 
-<p align="center">
-  <img src="assets/img1.jpg" width="45%" alt="Скриншот 1"/>
-  <img src="assets/img2.jpg" width="45%" alt="Скриншот 2"/>
-</p>
-<p align="center">
-  <img src="assets/img3.jpg" width="45%" alt="Скриншот 3"/>
-  <img src="assets/img4.jpg" width="45%" alt="Скриншот 4"/>
-</p>
 
 ---
 
@@ -50,10 +42,14 @@
 ## 📱 Скриншоты приложения
 
 <p align="center">
-  <img src="assets/screen_workout.png" width="31%" alt="Экран тренировки HUD"/>
-  <img src="assets/screen_programs.png" width="31%" alt="Выбор и редактор программ"/>
-  <img src="assets/screen_history.png" width="31%" alt="История и календарь"/>
+  <img src="assets/img1.jpg" width="45%" alt="Скриншот 1"/>
+  <img src="assets/img2.jpg" width="45%" alt="Скриншот 2"/>
 </p>
+<p align="center">
+  <img src="assets/img3.jpg" width="45%" alt="Скриншот 3"/>
+  <img src="assets/img4.jpg" width="45%" alt="Скриншот 4"/>
+</p>
+
 
 ---
 
