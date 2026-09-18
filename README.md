@@ -42,14 +42,11 @@
 ## 📱 Скриншоты приложения
 
 <p align="center">
-  <img src="assets/img1.jpg" width="45%" alt="Скриншот 1"/>
-  <img src="assets/img2.jpg" width="45%" alt="Скриншот 2"/>
+  <img src="https://cdn.jsdelivr.net/gh/stpavel/titan-trainer@main/assets/img1.jpg" width="23%" alt="Скриншот 1"/>
+  <img src="https://cdn.jsdelivr.net/gh/stpavel/titan-trainer@main/assets/img2.jpg" width="23%" alt="Скриншот 2"/>
+  <img src="https://cdn.jsdelivr.net/gh/stpavel/titan-trainer@main/assets/img3.jpg" width="23%" alt="Скриншот 3"/>
+  <img src="https://cdn.jsdelivr.net/gh/stpavel/titan-trainer@main/assets/img4.jpg" width="23%" alt="Скриншот 4"/>
 </p>
-<p align="center">
-  <img src="assets/img3.jpg" width="45%" alt="Скриншот 3"/>
-  <img src="assets/img4.jpg" width="45%" alt="Скриншот 4"/>
-</p>
-
 
 ---
 
