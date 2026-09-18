@@ -181,7 +181,7 @@ $$\text{ккал} = \frac{\text{VO}_2 \times \text{Вес (кг)}}{1000} \times 
 
 1. Склонируйте репозиторий:
    ```bash
-   git clone [https://github.com/твой_логин/titan-trainer.git](https://github.com/твой_логин/titan-trainer.git)
+   git clone https://github.com/stpavel/titan-trainer.git
    ```
 2. Откройте проект в **Android Studio** (рекомендуется Ladybug или новее, JDK 17).
 3. Соберите Debug APK стандартной командой Gradle:
