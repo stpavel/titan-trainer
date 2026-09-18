@@ -170,7 +170,7 @@ $$\text{ккал} = \frac{\text{VO}_2 \times \text{Вес (кг)}}{1000} \times 
 * **UI:** Jetpack Compose (Material 3), кастомный Canvas-рендеринг LED-дисплеев
 * **DI:** Dagger Hilt
 * **Асинхронность:** Kotlin Coroutines, StateFlow, SharedFlow
-* **База данных:** Room 2.6 (миграции схем v4 $\to$ v5 $\to$ v6)
+* **База данных:** Room 2.6 
 * **Bluetooth:** Nordic Semiconductor Android BLE Library (`ble-ktx`)
 * **Безопасность:** AndroidX Security Crypto (EncryptedSharedPreferences)
 * **Фоновая работа:** Android Foreground Service (`connectedDevice`)
